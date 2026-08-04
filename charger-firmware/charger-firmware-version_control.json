@@ -5,10 +5,10 @@
 "noOfPackages" : 1,
 "packages" : [
 {
-       "coreApp" : "1.3.2",
+       "coreApp" : "1.3.1",
        "coreBootloader" : "0.0.0",
-       "companionApp" : "1.2.1",
+       "companionApp" : "1.2.0",
        "companionBootloader" : "0.0.0",
-       "filename" :  "Tirex_MGM_7K4W_WMU_OTA_1_3_2_0_0_0_1_2_1.bin" 
+       "filename" :  "Tirex_MGM_7K4W_WMU_OTA_1_3_1_0_0_0_1_2_0.bin" 
    }]
 }
