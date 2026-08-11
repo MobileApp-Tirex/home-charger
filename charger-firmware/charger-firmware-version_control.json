@@ -5,7 +5,7 @@
 "noOfPackages" : 1,
 "packages" : [
 {
-       "coreApp" : "1.3.0",
+       "coreApp" : "1.3.1",
        "coreBootloader" : "0.0.0",
        "companionApp" : "1.2.0",
        "companionBootloader" : "0.0.0",
