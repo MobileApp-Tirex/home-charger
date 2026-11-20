@@ -1,22 +1,15 @@
 {
-"id" : 47,
-"schema" : 1,
-"isForced" : false,
-"noOfPackages" : 2,
-"packages" : [
-   {
-       "coreApp" : "0.0.0",
-       "coreBootloader" : "0.0.0",
-       "companionApp" : "1.2.1",
-       "companionBootloader" : "0.0.0",
-       "filename" :  "Tirex_MGM_7K4W_WMU_OTA_0_0_0_0_0_0_1_2_1.bin"
-   },
-   {
-       "coreApp" : "1.3.1",
-       "coreBootloader" : "0.0.0",
-       "companionApp" : "1.2.1",
-       "companionBootloader" : "0.0.0",
-       "filename" :  "Tirex_MGM_7K4W_WMU_OTA_1_3_1_0_0_0_1_2_1.bin"
-   }
-]
+    "id": 47,
+    "schema": 1,
+    "isForced": false,
+    "noOfPackages": 1,
+    "packages": [
+        {
+            "coreApp": "5.4.1",
+            "coreBootloader": "0.0.0",
+            "companionApp": "5.4.1",
+            "companionBootloader": "0.0.0",
+            "filename": "Tirex_MGM_7K4W_WMU_OTA_5_4_1_0_0_0_5_4_1.bin"
+        }
+    ]
 }
